@@ -8,8 +8,8 @@
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        VStack {
+    let dogNames = ["Airedale Terrior", "American Foxhound", "Dutch Shepherd", "Havanese", "Leonberger", "Mudi", "Norwegian Lundehund", "Pharaoh Hound", "Scottish Terrier", "Tosa"
+    let dogDescriptions = [        
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
