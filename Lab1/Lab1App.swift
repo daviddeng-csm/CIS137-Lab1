@@ -2,7 +2,7 @@
 //  Lab1App.swift
 //  Lab1
 //
-//  Created by David Deng on 9/11/25.
+//  Created by David Deng & Joshua Holmberg on 9/11/25.
 //
 
 import SwiftUI
