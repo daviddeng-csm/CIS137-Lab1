@@ -1,7 +1,7 @@
 //
 //  ContentView.swift
+//  Group #5
 //  Lab1
-//
 //  Created by David Deng & Joshua Holmberg on 9/11/25.
 //
 
