@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    let dogNames = ["Airedale Terrior", "American Foxhound", "Dutch Shepherd", "Havanese", "Leonberger", "Mudi", "Norwegian Lundehund", "Pharaoh Hound", "Scottish Terrier", "Tosa"]
+    let dogNames = ["Airedale Terrier", "American Foxhound", "Dutch Shepherd", "Havanese", "Leonberger", "Mudi", "Norwegian Lundehund", "Pharaoh Hound", "Scottish Terrier", "Tosa"]
     let dogDescriptions = ["The Airedale stands among the world's most versatile dog breeds and has distinguished himself as hunter, athlete, and companion.", 
 "American Foxhounds are good-natured, low-maintenance hounds who get on well with kids, dogs, even cats, but come with special considerations for prospective owners.", 
 "The Dutch Shepherd is a lively, athletic, alert and intelligent breed, and has retained its herding instinct for which it was originally developed.", 
