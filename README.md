@@ -2,6 +2,8 @@
 
 A simple SwiftUI app that displays various dog breeds and their descriptions.
 
+![App Demonstration](media/app-demo.gif)
+
 ## Assignment Details
 - **Assignment**: Partner Lab 1
 - **Group**: #5
@@ -44,6 +46,4 @@ A simple SwiftUI app that displays various dog breeds and their descriptions.
 3. Run the project on iOS simulator or device
 
 ## Demo Video
-A demonstration video showing the app functionality is included in the project folder.## Demo
-
-![App Demonstration](media/app-demo.gif)
+A demonstration video showing the app functionality is included in the project folder.
