@@ -44,5 +44,6 @@ A simple SwiftUI app that displays various dog breeds and their descriptions.
 3. Run the project on iOS simulator or device
 
 ## Demo Video
-A demonstration video showing the app functionality is included in the project folder.
-https://github.com/daviddeng-csm/CIS137-Lab1/blob/main/media/Lab1%20Screen%20Recording.mov
+A demonstration video showing the app functionality is included in the project folder.## Demo
+
+![App Demonstration](media/app-demo.gif)
